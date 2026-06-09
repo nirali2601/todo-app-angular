@@ -1,0 +1,72 @@
+.todo-text {
+    cursor: pointer;
+}
+
+.card {
+    border: none;
+    background-color: rgba(110, 170, 230, 0.88);
+    color: #ffffff;
+}
+
+.card-body {
+    padding: 2rem;
+}
+
+h2 {
+    font-size: 1.75rem;
+    color: #0a0606;
+}
+
+.form-control {
+    background-color: rgba(255, 255, 255, 0.08);
+    border-color: rgba(255, 255, 255, 0.18);
+    color: #0f0707;
+}
+
+.form-control::placeholder {
+    color: rgba(9, 4, 4, 0.7);
+}
+
+.btn-primary {
+    background-color: #212121;
+    border-color: #212121;
+}
+
+.btn-primary:hover {
+    background-color: #121212;
+    border-color: #121212;
+}
+
+.list-group-item {
+    background-color: rgba(255, 255, 255, 0.06);
+    border-color: rgba(255, 255, 255, 0.14);
+    color: #0f0707;
+}
+
+.btn-outline-success,
+.btn-outline-danger {
+    color: #0a0606;
+}
+
+.btn-outline-success:hover {
+    background-color: #1ecc26;
+    color: #000000;
+}
+
+.btn-outline-danger:hover {
+    background-color: #d94b4b;
+    color: #140c0c;
+}
+
+.todo-text.text-decoration-line-through {
+    color: rgba(11, 2, 2, 0.72) !important;
+    opacity: 0.85;
+}
+
+.list-group-item {
+    color: #080a0c;
+}
+
+ 
+
+
